@@ -1,0 +1,7 @@
+CourseID,ProgramID,CourseCode,CourseName,Credits,InstructorID
+1,1,CP104,Introduction to Programming,0.5,2
+2,1,CP164,Data Structure II,0.5,3
+3,1,CP213,Introduction to Object-Oriented Programming,0.5,4
+4,2,CP600,Practical Algorithm Design,0.5,2
+5,2,CP640,Data Analytics,0.5,5
+6,2,CP612,Data Management & Analysis,0.5,2
